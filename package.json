@@ -1,0 +1,19 @@
+{
+  "name": "@d4160/test-web-sdk",
+  "version": "1.0.0",
+  "description": "Test package for a bug fix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4160/playfab-web-sdk.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/d4160/playfab-web-sdk/issues"
+  },
+  "homepage": "https://github.com/d4160/playfab-web-sdk#readme"
+}
